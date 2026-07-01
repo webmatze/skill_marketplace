@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "webmatze-skills",
+  "description": "Persönlicher Skill-Marketplace von webmatze",
+  "owner": {
+    "name": "webmatze",
+    "email": "mathias.karstaedt@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "writing",
+      "description": "Skills zum Schreiben von Büchern und zum Erstellen wiederverwendbarer Autoren-Personas.",
+      "source": "./plugins/writing",
+      "category": "writing"
+    },
+    {
+      "name": "knowhow",
+      "description": "Skills zum strukturierten Lernen und Wissensaufbau.",
+      "source": "./plugins/knowhow",
+      "category": "productivity"
+    }
+  ]
+}
