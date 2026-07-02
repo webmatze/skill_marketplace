@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "writing",
-      "description": "Skills zum Schreiben von Büchern und zum Erstellen wiederverwendbarer Autoren-Personas.",
+      "description": "Skills zum Schreiben von Büchern, zum Erstellen wiederverwendbarer Autoren-Personas und zum Prüfen von Manuskripten.",
       "source": "./plugins/writing",
       "category": "writing"
     },

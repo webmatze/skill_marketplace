@@ -14,7 +14,7 @@ Persönlicher Claude-Code-Skill-Marketplace.
 
 | Plugin | Skills | Zweck |
 |--------|--------|-------|
-| `writing` | `book-writer`, `create-author` | Bücher schreiben; Autoren-Personas erstellen |
+| `writing` | `book-writer`, `create-author`, `manuscript-review` | Bücher schreiben; Autoren-Personas erstellen; Manuskripte prüfen |
 | `knowhow` | `lernen` | Strukturiertes Lernen im Workspace |
 
 ## Struktur

@@ -1,6 +1,6 @@
 {
   "name": "writing",
-  "description": "Skills zum Schreiben von Büchern (book-writer) und zum Erstellen wiederverwendbarer Autoren-Personas (create-author).",
+  "description": "Skills zum Schreiben von Büchern (book-writer), zum Erstellen wiederverwendbarer Autoren-Personas (create-author) und zum Prüfen fertiger Manuskripte auf Kontinuität und Handwerk (manuscript-review).",
   "author": {
     "name": "webmatze",
     "email": "mathias.karstaedt@gmail.com"

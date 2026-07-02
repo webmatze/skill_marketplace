@@ -60,3 +60,4 @@ Das Buch entsteht in der Sprache, die du im Chat nutzt (Prosa, Namen, Spec, Outl
 ## Verwandt
 
 - [`create-author`](../create-author/README.md) — erzeugt wiederverwendbare Autoren-Personas, die `book-writer` in einer bestimmten Stimme antreiben.
+- [`manuscript-review`](../manuscript-review/README.md) — prüft ein fertiges oder in Arbeit befindliches Manuskript auf Kontinuitätsfehler und handwerkliche Qualität (Editing-Phase 4, Qualitäts-Phase 6).
